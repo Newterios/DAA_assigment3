@@ -1,5 +1,3 @@
----
-
 # 🌉 Minimum Spanning Tree Algorithms — Assignment 3
 
 ## 📘 Overview
@@ -13,7 +11,7 @@ It includes:
 * JSON-based input/output
 * Analysis for a *city transportation network optimization problem*
 
----
+
 
 ##  Project Structure
 
@@ -333,4 +331,4 @@ If you encounter issues:
 
 >  **Note:** Includes *bonus features* with custom Graph and Edge classes built using object-oriented principles and clean architecture.
 
----
+
